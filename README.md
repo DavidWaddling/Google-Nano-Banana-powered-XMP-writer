@@ -1,4 +1,4 @@
-# Google-Nano-Banana-powered-XMP-writer
+# Photo-Google-powered-XMP-writer
 The purpose of this app is to take an image files (photos) that you have created and plan on editing and assist you with the inbedded information.
 
 When you import images into Lightroom (I'll use that as an example) you don't just edit the image lighting, cropping, and so on, you also get to add other information to the file. 
