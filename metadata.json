@@ -1,0 +1,5 @@
+{
+  "name": "Dave's Public Multi file Meta Tagger with Location",
+  "description": "Upload images to generate a title, description, and meta tags using Gemini. This tool helps you quickly create metadata for your photos.",
+  "requestFramePermissions": []
+}
